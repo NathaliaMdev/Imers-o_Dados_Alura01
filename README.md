@@ -1,1 +1,1 @@
-# Imers-o_Dados_Alura01
+# Neste repositório contém algumas formas de consultar dados em uma lista que contém dados de imóveis à venda em São Paulo. 
